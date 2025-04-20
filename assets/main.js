@@ -1,0 +1,1 @@
+document.getElementById('root').innerText = 'Tarot Deck Viewer loaded successfully!';
